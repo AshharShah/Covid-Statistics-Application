@@ -3,7 +3,7 @@ An application which provides the current covid cases for a searched country alo
 
 You can try out the application at: https://world-covid-engine.herokuapp.com/?
 
-# The homepage
+# The Home-Page
 ![image](https://user-images.githubusercontent.com/76205185/180937784-1d82c9e8-30b5-4d64-a8e2-cf64a491c9e0.png)
 
 # The Search Result
