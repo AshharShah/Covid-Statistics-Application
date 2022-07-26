@@ -1,0 +1,32 @@
+body{
+}
+.icon{
+    width: 4.5%;
+    height: 4.5%;
+    margin-right: 5%;
+    margin-left: 1.5%;
+}
+
+.navbar{
+    background-color: rgb(231, 206, 175);
+}
+
+.table{
+    margin-top: 3%;
+}
+
+.backBtn{
+    margin-top: 3%;
+    display: flex;  
+    justify-content: center;  
+    align-items: center;  
+}
+
+.footer{
+    background-color: rgb(106, 172, 192);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position:fixed;
+    width: 100%;
+    bottom:0;
+}
